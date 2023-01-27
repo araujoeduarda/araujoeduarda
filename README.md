@@ -42,5 +42,5 @@
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/araujoeduarda/count.svg" /></p>
 
 
-![snake gif](https://github.com/araujoeduarda/araujoeduarda/blob/0979f50f20c0168bc3846d4e366b6cfc5136e201/.github/workflows/blank.yml)
+![snake gif](https://github.com/araujoeduarda/araujoeduarda/blob/output/github-contribution-grid-snake.svg)
 
