@@ -8,5 +8,5 @@
 - 🔭 No momento, estou trabalhando no projeto Bikcraft
 - 🌱 Estudando atualmente: JavaScript, HTML, CSS e React ...
 
-![snakegif](https://github.com/araujoeduarda/araujoeduarda/tree/main/.github/workflows)
+![snakegif](https://github.com/araujoeduarda/araujoeduarda/blob/output/.github-contribution-grid-snake.svg)
 
