@@ -15,6 +15,7 @@
  <div>
   <a href="https://github.com/araujoeduarda">
    <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=araujoeduarda&layout=compact&langs_count=16&theme=dracula"/>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=araujoeduarda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
 </div>
  
