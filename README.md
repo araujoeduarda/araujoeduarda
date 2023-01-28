@@ -12,7 +12,7 @@
 <h2> Seja bem vindo!</h2>
 </div>
 
- <div>
+ <div align="center">
   <a href="https://github.com/araujoeduarda">
    <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=araujoeduarda&layout=compact&langs_count=16&theme=dracula"/>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
