@@ -14,7 +14,7 @@
 <h2> Seja bem-vindo!</h2>
 </div>
 
- <div align="left">
+ <div align="center">
   <a href="https://github.com/araujoeduarda">
   <a href="http://www.github.com/araujoeduarda"><img align="center" height="170" src="https://github-readme-stats.vercel.app/api?username=araujoeduarda&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="araujoeduarda's GitHub stats" /></a>
      <a href="http://www.github.com/araujoeduarda"><img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=araujoeduarda&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="araujoeduarda's GitHub stats" /></a>
