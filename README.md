@@ -10,6 +10,10 @@
 - 🔭 No momento, estou trabalhando no projeto [Bikcraft](https://araujoeduarda.github.io/bikcraft/)
 - 🌱 Estudando atualmente: JavaScript, HTML, CSS e React 
 
+<a href="https://www.twitter.com/eduardavsa" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/eduardavsa?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+/></a>
+
 <div align="center">
 <h2> Seja bem-vindo!</h2>
 </div>
