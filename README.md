@@ -5,8 +5,8 @@
 
 -->
 
-- 🔭 No momento, estou trabalhando no projeto Bikcraft
-- 🌱 Estudando atualmente: JavaScript, HTML, CSS e React ...
+- 🔭 No momento, estou trabalhando no projeto [Bikcraft](https://araujoeduarda.github.io/bikcraft/)
+- 🌱 Estudando atualmente: JavaScript, HTML, CSS e React 
 
 <div align="center">
 <h2> Seja bem vindo!</h2>
