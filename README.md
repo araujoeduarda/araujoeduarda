@@ -12,7 +12,7 @@
 <h2> Seja bem vindo!</h2>
 </div>
 
- <div align="center">
+ <div>
   <a href="https://github.com/araujoeduarda">
    <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=araujoeduarda&layout=compact&langs_count=16&theme=dracula"/>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -20,7 +20,7 @@
 </div>
  
  ## Skills
-<div style="display: inline_block "><br>
+<div align="center"><br>
   <img height="40" align="center" alt="Maria Eduarda" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <img height="40" align="center" alt="Maria Eduarda" height="30" width="50" src="https://user-images.githubusercontent.com/113942221/215266874-f90aede2-5292-4e0b-9c50-8c1259cbd836.svg">
