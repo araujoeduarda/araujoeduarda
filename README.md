@@ -8,7 +8,7 @@
 - 🌍  Localizada no Rio de Janeiro
 - 🖥️  Viste meu [Portfólio](https://araujoeduarda.github.io/)
 - 🔭 No momento, estou trabalhando no projeto [Bikcraft](https://araujoeduarda.github.io/bikcraft/)
-- 🌱 Estudando atualmente: JavaScript, HTML, CSS e React 
+- 🌱 Estudando atualmente: JavaScript, HTML, CSS e React. 
 
 <a href="https://www.twitter.com/eduardavsa" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/eduardavsa?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
