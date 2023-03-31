@@ -1,4 +1,6 @@
-### Olá <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"  width="30">
+<div align="center">
+<h2> Seja bem-vindo!</h2>
+</div>
 
 <!--
 **araujoeduarda/araujoeduarda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,13 +16,15 @@
 src="https://img.shields.io/twitter/follow/eduardavsa?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
 
-<div align="center">
-<h2> Seja bem-vindo!</h2>
-</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0A7F9A&height=180&section=header&text=Maria+Eduarda+Araujo&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0A7F9A&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Maria+Eduarda;Tenho+21+anos+e+sou+do+Rio+de+Janeiro;Seja+bem-vindo+ao+meu+perfil!+:%29)](https://git.io/typing-svg)
 
-[![github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=araujoeduarda&bg_color=1C1917&color=0A7F9A&line=025366&point=0BB3DA&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
 
 
 
@@ -66,14 +70,16 @@ src="https://img.shields.io/twitter/follow/eduardavsa?logo=twitter&style=for-the
 </div>
 <details>
   <summary>Saiba Mais</summary>
-  
-
+<br> 
 <div style="display:flex;">
 <div>
 <a href="http://www.github.com/araujoeduarda"><img src="https://github-readme-streak-stats.herokuapp.com/?user=araujoeduarda&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+ <a href="http://www.github.com/araujoeduarda"><img align="center" height="300" width="100%" src="https://github-readme-activity-graph.cyclic.app/graph?username=araujoeduarda&bg_color=1C1917&color=0A7F9A&line=025366&point=0BB3DA&area=true&hide_border=true" src="https://github.com/ashutosh00710/github-readme-activity-graph" alt="araujoeduarda's GitHub stats" /></a>
 </div>
 
 <div>
 
 </div>
  </details>
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0A7F9A&height=120&section=footer"/>
+ 
