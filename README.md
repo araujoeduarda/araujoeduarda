@@ -1,4 +1,4 @@
-### Olá <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">
+### Olá <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"  width="30">
 
 <!--
 **araujoeduarda/araujoeduarda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -8,7 +8,7 @@
 - 🌍  Localizada no Rio de Janeiro
 - 🖥️  Viste meu [Portfólio](https://araujoeduarda.github.io/)
 - 🔭 No momento, estou trabalhando no projeto [Bikcraft](https://araujoeduarda.github.io/bikcraft/)
-- 🌱 Estudando atualmente: JavaScript, HTML, CSS e React. 
+
 
 <a href="https://www.twitter.com/eduardavsa" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/eduardavsa?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
@@ -17,6 +17,13 @@ src="https://img.shields.io/twitter/follow/eduardavsa?logo=twitter&style=for-the
 <div align="center">
 <h2> Seja bem-vindo!</h2>
 </div>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0A7F9A&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Maria+Eduarda;Tenho+21+anos+e+sou+do+Rio+de+Janeiro;Seja+bem-vindo+ao+meu+perfil!+:%29)](https://git.io/typing-svg)
+
+[![github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=araujoeduarda&bg_color=1C1917&color=0A7F9A&line=025366&point=0BB3DA&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+
 
  <div align="center">
   <a href="https://github.com/araujoeduarda">
