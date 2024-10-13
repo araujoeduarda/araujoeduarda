@@ -19,7 +19,7 @@ src="https://img.shields.io/twitter/follow/eduardavsa?logo=twitter&style=for-the
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0A7F9A&height=180&section=header&text=Maria+Eduarda+Araujo&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0A7F9A&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Maria+Eduarda;Tenho+21+anos+e+sou+do+Rio+de+Janeiro;Seja+bem-vindo+ao+meu+perfil!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0A7F9A&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Maria+Eduarda;Tenho+23+anos+e+sou+do+Rio+de+Janeiro;Seja+bem-vindo+ao+meu+perfil!+:%29)](https://git.io/typing-svg)
 
 
 </div>
@@ -41,6 +41,8 @@ src="https://img.shields.io/twitter/follow/eduardavsa?logo=twitter&style=for-the
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+<a href="https://www.python.org/community/logos/" target="_blank" rel="noreferrer"><img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" width="36" height="36" alt="Python" /></a>
+
 
  
 </div>
