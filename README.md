@@ -6,10 +6,9 @@
 **araujoeduarda/araujoeduarda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 -->
-- 👨‍💻  Frontend Developer
 - 🌍  Localizada no Rio de Janeiro
 - 🖥️  Viste meu [Portfólio](https://araujoeduarda.github.io/)
-- 🔭 No momento, estou trabalhando no projeto [Bikcraft](https://araujoeduarda.github.io/bikcraft/)
+- 🔭 No momento, estou trabalhando no em visualizadores de dados com Python e Power BI!
 
 
 <a href="https://www.twitter.com/eduardavsa" target="_blank" rel="noreferrer"><img
@@ -39,10 +38,7 @@ src="https://img.shields.io/twitter/follow/eduardavsa?logo=twitter&style=for-the
 <p align="left"> 
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 
@@ -67,19 +63,6 @@ src="https://img.shields.io/twitter/follow/eduardavsa?logo=twitter&style=for-the
  
   ![Snake animation](https://github.com/araujoeduarda/araujoeduarda/blob/output/github-contribution-grid-snake.svg)
  
-</div>
-<details>
-  <summary>Saiba Mais</summary>
-<br> 
-<div style="display:flex;">
-<div>
-<a href="http://www.github.com/araujoeduarda"><img src="https://github-readme-streak-stats.herokuapp.com/?user=araujoeduarda&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
- <a href="http://www.github.com/araujoeduarda"><img align="center" height="300" width="100%" src="https://github-readme-activity-graph.cyclic.app/graph?username=araujoeduarda&bg_color=1C1917&color=0A7F9A&line=025366&point=0BB3DA&area=true&hide_border=true" src="https://github.com/ashutosh00710/github-readme-activity-graph" alt="araujoeduarda's GitHub stats" /></a>
-</div>
 
-<div>
-
-</div>
- </details>
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0A7F9A&height=120&section=footer"/>
  
