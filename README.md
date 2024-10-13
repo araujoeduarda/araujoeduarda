@@ -6,15 +6,11 @@
 **araujoeduarda/araujoeduarda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 -->
-- 👨‍💻  Frontend Developer
 - 🌍  Localizada no Rio de Janeiro
 - 🖥️  Viste meu [Portfólio](https://araujoeduarda.github.io/)
-- 🔭 No momento, estou trabalhando no projeto [Bikcraft](https://araujoeduarda.github.io/bikcraft/)
+- 🔭 No momento, estou trabalhando em visualizadores de dados com Python e Power BI!
 
 
-<a href="https://www.twitter.com/eduardavsa" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/eduardavsa?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0A7F9A&height=180&section=header&text=Maria+Eduarda+Araujo&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35"/>
